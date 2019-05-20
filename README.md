@@ -11,33 +11,18 @@
 
 ### Modules
 
-#### `modulename.js`
+#### `bitmap.js`
 
 ##### Exported Values and Methods
 
-###### `foo(thing) -> string`
+#### `operations.js`
 
-Usage Notes or examples
+##### Exported Values and Methods
 
-###### `bar(array) -> array`
-
-Usage Notes or examples
-
-#### Running the app
-
-- `npm start`
-- Endpoint: `/foo/bar/`
-  - Returns a JSON object with abc in it.
-- Endpoint: `/bing/zing/`
-
-  - Returns a JSON object with xyz in it.
+###### `greyscale(buffer) -> buffer`
 
 #### Tests
 
 - How do you run tests?
 - What assertions were made?
 - What assertions need to be / should be made?
-
-#### UML
-
-Link to an image of the UML for your application and response to events
