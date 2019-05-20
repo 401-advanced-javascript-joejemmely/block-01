@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
+- [submission PR](https://github.com/401-advanced-javascript-joejemmely/block-01/pull/1)
 - [travis](https://travis-ci.com/401-advanced-javascript-joejemmely/block-01)
 
 ### Modules
